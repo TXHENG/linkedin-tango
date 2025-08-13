@@ -1,5 +1,7 @@
+import TangoPlayground from '../components/tango/TangoPlayground';
+
 const Home = () => {
-  return <>This is Home Page</>;
+  return <TangoPlayground />;
 };
 
 export default Home;
