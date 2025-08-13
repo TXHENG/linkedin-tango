@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "rvest.vs-code-prettier-eslint",
+    "streetsidesoftware.code-spell-checker",
+    "codeium.codeium",
+    "usernamehw.errorlens",
+    "vdanchenkov.tailwind-class-sorter",
+    "dbaeumer.vscode-eslint"
+  ]
+}
