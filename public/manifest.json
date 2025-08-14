@@ -6,7 +6,7 @@
   "start_url": "/",
   "name": "VITE APP NAME",
   "short_name": "VITE APP NAME",
-  "description": "Description Goes Here",
+  "description": "Free online Tango puzzle inspired by LinkedIn’s daily game. Build the map, lock it, and solve with 🌝 & 🌚. Play anytime, no LinkedIn required.",
   "icons": [
     {
       "src": "/icons/icon-192.png",
