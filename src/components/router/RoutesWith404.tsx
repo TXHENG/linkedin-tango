@@ -1,4 +1,4 @@
-import { FC, PropsWithChildren, Suspense } from 'react';
+import { type FC, type PropsWithChildren, Suspense } from 'react';
 import { Route, Routes } from 'react-router-dom';
 import Fallback from './Fallback';
 import Error404 from '../../pages/error/Error404';
