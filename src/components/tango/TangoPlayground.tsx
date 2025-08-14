@@ -108,7 +108,7 @@ export default function TangoPlayground() {
         </section>
 
         <footer className="text-xs text-slate-500">
-          Built for personal use; not affiliated with LinkedIn. ☀️ = Sun, 🌙 = Moon. Use connectors (= or ×) to encode
+          Built for personal use; not affiliated with LinkedIn. 🌝 = Sun, 🌚 = Moon. Use connectors (= or ×) to encode
           the daily map’s constraints.
         </footer>
       </div>

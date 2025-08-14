@@ -34,12 +34,12 @@ export function Sidebar({ importSetup }: { importSetup: (json: string) => void }
           <li>
             Click the small squares <em>between</em> cells to set connectors: blank → <b>=</b> → <b>×</b>.
           </li>
-          <li>(Optional) Click any cells to prefill ☀️ or 🌙 if the daily puzzle shows them.</li>
+          <li>(Optional) Click any cells to prefill 🌝 or 🌚 if the daily puzzle shows them.</li>
           <li>
             Press <b>Lock Map</b>.
           </li>
           <li>
-            Press <b>Start Game</b> and solve by clicking cells to cycle ☀️ / 🌙 / blank.
+            Press <b>Start Game</b> and solve by clicking cells to cycle 🌝 / 🌚 / blank.
           </li>
         </ol>
       </div>

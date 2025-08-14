@@ -59,11 +59,11 @@ export function Board({
                     lockedHere
                       ? 'Prefilled (locked)'
                       : started
-                        ? 'Cycle ☀️ / 🌙 / blank'
+                        ? 'Cycle 🌝 / 🌚 / blank'
                         : 'Set prefill (click to cycle)'
                   }
                 >
-                  <span>{val === 'S' ? '☀️' : val === 'M' ? '🌙' : ''}</span>
+                  <span>{val === 'S' ? '🌝' : val === 'M' ? '🌚' : ''}</span>
                 </button>
               );
             }
